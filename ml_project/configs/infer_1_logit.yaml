@@ -1,0 +1,4 @@
+input_data_path: "./data/input.csv"
+model_path: "models/model.pkl"
+transformer_path: "models/transformer.pkl"
+proba: true
